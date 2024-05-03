@@ -1,0 +1,20 @@
+{
+    "president": [
+        "总统",
+        "主席",
+        "校长"
+    ],
+    "总理": [
+        "prime minister",
+        "premier"
+    ],
+    "vice president": [
+        "副总统",
+        "副主席",
+        "副校长"
+    ],
+    "bank": [
+        "银行",
+        "河岸"
+    ]
+}

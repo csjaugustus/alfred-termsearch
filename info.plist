@@ -1,0 +1,3182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.augustuschen.termsearch</string>
+	<key>category</key>
+	<string>Productivity</string>
+	<key>connections</key>
+	<dict>
+		<key>016AB26B-D397-4CD1-8234-15ED8D3E914E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>639D73B7-294A-4A28-AF56-E688C3AC543D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>27D70842-CD00-432F-A340-3FDADED14FFD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0929020E-592C-4F0C-A756-EA72D14BCD29</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>5188FD67-B957-4AC8-9552-086B9CBD5269</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>134CD31E-ECD9-4B8D-A7C6-1260A1DABA7D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D6007E2-F3A7-44D0-844C-802A00D7A325</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>142396DE-7845-4DB2-BC1C-515E8F4A9489</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BE9903C3-5A81-4796-B90E-905C315FF296</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>B55C584A-979C-42C7-A543-B45DBC8565D8</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>14ECFF38-40CC-4A6D-AE3B-EFC57FB73277</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1AFC19F5-A777-482B-9919-9900C7BF8CC4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>1AFC19F5-A777-482B-9919-9900C7BF8CC4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8EA9275E-5A0F-440E-9D1E-EAC3FE190299</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>24B0AAB8-E3F9-4E94-A8D8-FA27AE7A70C5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8259AAF2-BF5C-4B7E-8B4C-310A0BD201C6</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Only copy TT.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B3E4BBA4-E9C3-4887-9D19-1D78A40ED516</string>
+				<key>modifiers</key>
+				<integer>1048576</integer>
+				<key>modifiersubtext</key>
+				<string>Only copy TT.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>0DFBBDC2-8560-43C6-ACC6-44F4928A151D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string>Copy both ST and TT.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>C6C99318-2C51-4DDE-9B6B-0BD6D003FCB0</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string>Copy both ST and TT.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>2D0919EF-0D92-46D3-AD15-7479A819FD67</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>142396DE-7845-4DB2-BC1C-515E8F4A9489</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>3283968A-1941-480A-8461-34702C7CE5C7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D876F22-5B5D-4C91-BBC2-D4977353FC66</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>33F8748B-C8F5-4B54-8ADE-10BA59431A1B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4EC62D23-7868-4B40-9D1B-D99A4F37ABC9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>354BA3A7-CE59-4613-BD03-2EBF683BB79C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BB76B464-6776-4CD3-B80C-83ABF125C629</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>37586824-A698-4BFD-B230-E53B7607EA67</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E29CA61E-1A87-42E6-8C9E-D01B2DEF41FF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>5188FD67-B957-4AC8-9552-086B9CBD5269</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CC188251-4DA4-4D14-BBE6-15D4EB2980A3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>B55C584A-979C-42C7-A543-B45DBC8565D8</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>37586824-A698-4BFD-B230-E53B7607EA67</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>64DF5366-7030-4EA8-B345-F16ECD819AA9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C0D65D2F-5E0C-47F0-BFD4-2ABCFA7F3F1A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6ECC6AD6-EAA1-480A-951C-99D102DC005F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F3F0A536-CD79-46B4-A9B4-9D04EE6662D9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>717E04ED-3761-42E8-98FD-CD1861EECF4E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7D6007E2-F3A7-44D0-844C-802A00D7A325</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7A5D5B44-48D9-4F67-A1C1-FE7E7B7CF882</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>24B0AAB8-E3F9-4E94-A8D8-FA27AE7A70C5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>BDF62C4D-E524-41B5-A8D4-1FCD7D6C7580</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>639D73B7-294A-4A28-AF56-E688C3AC543D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>27D70842-CD00-432F-A340-3FDADED14FFD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7B19D22F-8D44-44AD-896A-D48AC85E79DA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C1F56D1F-7D42-4FFE-BDFA-5E88FFF529D3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7D6007E2-F3A7-44D0-844C-802A00D7A325</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>354BA3A7-CE59-4613-BD03-2EBF683BB79C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7D876F22-5B5D-4C91-BBC2-D4977353FC66</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>134CD31E-ECD9-4B8D-A7C6-1260A1DABA7D</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>846E9DC0-82DD-431C-9FE6-A29289EB6102</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C300D1D4-6F46-4E6A-9EA5-D8488CFF95C1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8D49F49C-0D4C-4BFC-A8D6-87839C79BFFA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7A5D5B44-48D9-4F67-A1C1-FE7E7B7CF882</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8EA9275E-5A0F-440E-9D1E-EAC3FE190299</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>64DF5366-7030-4EA8-B345-F16ECD819AA9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>E2CF6F12-4A6B-4C0C-99A3-EBB775BEEAD4</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>7B19D22F-8D44-44AD-896A-D48AC85E79DA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>959A10BE-D139-439B-B37C-7AC4D8C66B37</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8D49F49C-0D4C-4BFC-A8D6-87839C79BFFA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AC61B039-2CCA-44A6-916C-793D3D29C0C6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6ECC6AD6-EAA1-480A-951C-99D102DC005F</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>B55C584A-979C-42C7-A543-B45DBC8565D8</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ACF5F331-C068-49EC-9A34-FD256C0FA3D2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BB8775E3-3086-4CCB-823E-FF86F3B65012</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B65EDED5-502D-4701-A320-30E3BB7AA764</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E2C68819-16A2-40D5-97B5-6376AE507F19</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B8E92031-1DC9-4739-BFD1-A431330DBDD8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F9DDF6BB-CD52-48AA-BCFC-76A6C630C8F5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BB2543E4-A8F2-497B-A4A0-51ACEDB1A25F</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>ACF5F331-C068-49EC-9A34-FD256C0FA3D2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>BB76B464-6776-4CD3-B80C-83ABF125C629</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8EB46702-DD6B-427C-B7AF-F70BE831EBB3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BB8775E3-3086-4CCB-823E-FF86F3B65012</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0929020E-592C-4F0C-A756-EA72D14BCD29</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BE9903C3-5A81-4796-B90E-905C315FF296</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F3F0A536-CD79-46B4-A9B4-9D04EE6662D9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C0D65D2F-5E0C-47F0-BFD4-2ABCFA7F3F1A</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3283968A-1941-480A-8461-34702C7CE5C7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C1F56D1F-7D42-4FFE-BDFA-5E88FFF529D3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>717E04ED-3761-42E8-98FD-CD1861EECF4E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C300D1D4-6F46-4E6A-9EA5-D8488CFF95C1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>C03654CC-B05B-48F4-B6F6-99582E389302</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>524C3580-F674-44D7-8E8C-14E914009BB1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CC188251-4DA4-4D14-BBE6-15D4EB2980A3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DD0A0C7B-6417-4D5D-9277-87AC47715ECB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DD0A0C7B-6417-4D5D-9277-87AC47715ECB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DEDE1374-1095-4F89-9DA0-C2DD20563F04</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+		<key>DEDE1374-1095-4F89-9DA0-C2DD20563F04</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2D0919EF-0D92-46D3-AD15-7479A819FD67</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DF8CCAFF-D26C-4D11-A6B5-AA8FB211ECB7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>B65EDED5-502D-4701-A320-30E3BB7AA764</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E29CA61E-1A87-42E6-8C9E-D01B2DEF41FF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>AC61B039-2CCA-44A6-916C-793D3D29C0C6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E2C68819-16A2-40D5-97B5-6376AE507F19</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>33F8748B-C8F5-4B54-8ADE-10BA59431A1B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>F9DDF6BB-CD52-48AA-BCFC-76A6C630C8F5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>FD4B0A31-2777-4D22-B49F-8E077F63499B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>E2CF6F12-4A6B-4C0C-99A3-EBB775BEEAD4</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>959A10BE-D139-439B-B37C-7AC4D8C66B37</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FB62F5D0-69AC-479B-BA70-332B46755436</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>DF8CCAFF-D26C-4D11-A6B5-AA8FB211ECB7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FD4B0A31-2777-4D22-B49F-8E077F63499B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>016AB26B-D397-4CD1-8234-15ED8D3E914E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Augustus Chen</string>
+	<key>description</key>
+	<string>Easily manage and look up translations from termbases.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>TermSearch</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>ts</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Retrieving results...</string>
+				<key>script</key>
+				<string>import sys
+import json
+import os
+from thefuzz import fuzz
+import re
+import pinyin
+
+query = sys.argv[1]
+fuzz_value = int(os.environ["fuzz_value"])
+
+def contains_chinese(s):
+    return re.findall(r'[\u4e00-\u9fff]+', s)
+
+def one_word_matched(query, target):
+    query = query.lower()
+    target = target.lower()
+
+    query_words = query.split()
+    if query_words == 1:
+        return any(fuzz.ratio(query, w) &gt; fuzz_value for w in target.split())
+    return any(any(fuzz.ratio(qw, w) &gt; fuzz_value for w in target.split()) for qw in query_words)
+
+def pinyin_matched(query, target):
+    if not contains_chinese(target):
+        return False
+    # explicitly replace some known errors in pinyin transcription
+    with open("replace_d.json", "r", encoding="utf-8") as f:
+        replace_d = json.load(f)
+
+    for k, v in replace_d.items():
+        target = target.replace(k, v)
+
+    target_py = pinyin.get(target, format="strip", delimiter="")
+    return len(query) &gt; 1 and query in target_py
+
+termbase_dir = os.environ["termbase_dir"]
+termbase_names = [p for p in os.listdir(termbase_dir) if p.endswith(".json")]
+termbase_paths = [os.path.join(termbase_dir, fn) for fn in termbase_names]
+paired = list(zip(termbase_names, termbase_paths))
+
+formatted_lst = []
+
+for p in paired:
+    with open(p[1], "r", encoding="utf-8") as f:
+        tb = json.load(f)
+
+    for k, v in tb.items():
+        if contains_chinese(query):
+            if query in k:
+                formatted_lst.append({
+                        "title": k,
+                        "subtitle" : " | ".join(v),
+                        "arg" : f"{p[1]}||{k}||{' | '.join(v)}",
+                        "mods" : {
+                            "cmd" : {
+                                "valid" : True,
+                                "arg" : f"{p[1]}||{k}||{' | '.join(v)}",
+                                "subtitle" : p[0]
+                            }
+                        }
+                    })
+            elif any(query in tt for tt in v):
+                for tt in v:
+                    if query in tt:
+                        formatted_lst.append({
+                                "title": f"{tt} 🔁",
+                                "subtitle": k,
+                                "arg": f"rev||{k}||{tt}",
+                                "mods": {
+                                    "cmd" : {
+                                        "valid" : True,
+                                        "arg" : f"rev||{k}||{tt}",
+                                        "subtitle" : p[0]
+                                    }
+                                }
+                            })
+        else:
+            if one_word_matched(query, k) or pinyin_matched(query, k):
+                formatted_lst.append({
+                        "title": k,
+                        "subtitle" : " | ".join(v),
+                        "arg" : f"{p[1]}||{k}||{' | '.join(v)}",
+                        "mods": {
+                            "cmd" : {
+                                "valid" : True,
+                                "arg" : f"{p[1]}||{k}||{' | '.join(v)}",
+                                "subtitle" : p[0]
+                            }
+                        }
+                    })
+            elif any(one_word_matched(query, tt) or pinyin_matched(query, tt) for tt in v):
+                for tt in v:
+                    if one_word_matched(query, tt) or pinyin_matched(query, tt):
+                        formatted_lst.append({
+                                "title": f"{tt} 🔁",
+                                "subtitle": k,
+                                "arg": f"rev||{k}||{tt}",
+                                "mods": {
+                                    "cmd" : {
+                                        "valid" : True,
+                                        "arg" : f"rev||{k}||{tt}",
+                                        "subtitle" : p[0]
+                                    }
+                                }
+                            })
+
+formatted_d = {"items" : list(reversed(formatted_lst))}
+
+data = json.dumps(formatted_d)
+
+sys.stdout.write(data)
+
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Look up a term from all termbases.</string>
+				<key>title</key>
+				<string>Term Search</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>B8E92031-1DC9-4739-BFD1-A431330DBDD8</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>8259AAF2-BF5C-4B7E-8B4C-310A0BD201C6</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Retrieving results...</string>
+				<key>script</key>
+				<string>import sys
+import json
+import os
+
+st = os.environ["st"]
+tb_to_search = os.environ["tb_to_search"]
+tb_name = os.path.basename(tb_to_search)
+
+formatted_lst = []
+
+with open(tb_to_search, "r", encoding="utf-8") as f:
+    tb = json.load(f)
+
+results = tb[st]
+
+
+for r in results:
+    formatted_lst.append({
+            "title" : f"{st}（{r}）",
+            "subtitle" : "Hold CMD to copy only TT.",
+            "arg" : f"{st}（{r}）",
+            "mods": {
+                "cmd" : {
+                    "valid" : True,
+                    "arg" : st,
+                    "subtitle" : "Only TT will be copied."
+                }
+            }
+        })
+
+formatted_d = {"items" : formatted_lst}
+
+data = json.dumps(formatted_d)
+
+sys.stdout.write(data)
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Results retrieved.</string>
+				<key>title</key>
+				<string>Expand term.</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>24B0AAB8-E3F9-4E94-A8D8-FA27AE7A70C5</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>st</key>
+					<string>{var:split2}</string>
+					<key>tt</key>
+					<string>{var:split3}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>016AB26B-D397-4CD1-8234-15ED8D3E914E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>||</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>FD4B0A31-2777-4D22-B49F-8E077F63499B</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>rev\|(.+)</string>
+						<key>outputlabel</key>
+						<string>Reversed</string>
+						<key>uid</key>
+						<string>E2CF6F12-4A6B-4C0C-99A3-EBB775BEEAD4</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string></string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>F9DDF6BB-CD52-48AA-BCFC-76A6C630C8F5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Copied to clipboard.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>B3E4BBA4-E9C3-4887-9D19-1D78A40ED516</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:split3}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>.+ \| .+</string>
+						<key>outputlabel</key>
+						<string>expand</string>
+						<key>uid</key>
+						<string>BDF62C4D-E524-41B5-A8D4-1FCD7D6C7580</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>7A5D5B44-48D9-4F67-A1C1-FE7E7B7CF882</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{var:st} ({query})</string>
+				<key>title</key>
+				<string>Copied to clipboard.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>0DFBBDC2-8560-43C6-ACC6-44F4928A151D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>st</key>
+					<string>{var:split2}</string>
+					<key>tb_to_search</key>
+					<string>{var:split1}</string>
+					<key>tt</key>
+					<string>{var:split3}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>8D49F49C-0D4C-4BFC-A8D6-87839C79BFFA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>||</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>959A10BE-D139-439B-B37C-7AC4D8C66B37</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:st}（{query}）</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>C6C99318-2C51-4DDE-9B6B-0BD6D003FCB0</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{var:st} ({var:tt})</string>
+				<key>title</key>
+				<string>Copied to clipboard.</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>639D73B7-294A-4A28-AF56-E688C3AC543D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{var:st}（{var:tt}）</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>27D70842-CD00-432F-A340-3FDADED14FFD</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>tsa</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Retrieving results...</string>
+				<key>script</key>
+				<string>import sys
+import json
+import os
+from thefuzz import fuzz
+import re
+import pinyin
+
+query = sys.argv[1]
+fuzz_value = int(os.environ["fuzz_value"])
+
+def contains_chinese(s):
+    return re.findall(r'[\u4e00-\u9fff]+', s)
+
+def one_word_matched(query, target):
+    query = query.lower()
+    target = target.lower()
+
+    query_words = query.split()
+    if query_words == 1:
+        return any(fuzz.ratio(query, w) &gt; fuzz_value for w in target.split())
+    return any(any(fuzz.ratio(qw, w) &gt; fuzz_value for w in target.split()) for qw in query_words)
+
+def pinyin_matched(query, target):
+    if not contains_chinese(target):
+        return False
+    # explicitly replace some known errors in pinyin transcription
+    with open("replace_d.json", "r", encoding="utf-8") as f:
+        replace_d = json.load(f)
+
+    for k, v in replace_d.items():
+        target = target.replace(k, v)
+
+    target_py = pinyin.get(target, format="strip", delimiter="")
+    return len(query) &gt; 1 and query in target_py
+
+termbase_dir = os.environ["termbase_dir"]
+termbase_names = [p for p in os.listdir(termbase_dir) if p.endswith(".json")]
+termbase_paths = [os.path.join(termbase_dir, fn) for fn in termbase_names]
+paired = list(zip(termbase_names, termbase_paths))
+formatted_lst = []
+
+exact_match_found = False
+
+for p in paired:
+    with open(p[1], "r", encoding="utf-8") as f:
+        tb = json.load(f)
+
+    for k, v in tb.items():
+        if query == k:
+            exact_match_found = True
+        if contains_chinese(query):
+            if query in k:
+                formatted_lst.append({
+                        "title": k,
+                        "subtitle" : " | ".join(v),
+                        "arg" : f"{p[1]}||{k}|{' | '.join(v)}",
+                        "mods": {
+                            "cmd" : {
+                                "valid": True,
+                                "arg": f"{p[1]}||{k}|{' | '.join(v)}",
+                                "subtitle": p[0]
+                            }
+                        }
+                    })
+            elif any(query in tt for tt in v):
+                for tt in v:
+                    if query in tt:
+                        formatted_lst.append({
+                                "title": k,
+                                "subtitle": f'✅ {" | ".join(v)}',
+                                "arg": f"{p[1]}||{k}||{' | '.join(v)}",
+                                "mods": {
+                                    "cmd" : {
+                                        "valid": True,
+                                        "arg": f"{p[1]}||{k}||{' | '.join(v)}",
+                                        "subtitle": p[0]
+                                    }
+                                }
+                            })
+        else:
+            if one_word_matched(query, k) or pinyin_matched(query, k):
+                formatted_lst.append({
+                        "title": k,
+                        "subtitle" : " | ".join(v),
+                        "arg" : f"{p[1]}||{k}||{' | '.join(v)}",
+                        "mods": {
+                            "cmd" : {
+                                "valid": True,
+                                "arg": f"{p[1]}||{k}||{' | '.join(v)}",
+                                "subtitle": p[0]
+                            }
+                        }
+                    })
+            elif any(one_word_matched(query, tt) or pinyin_matched(query, tt) for tt in v):
+                for tt in v:
+                    if one_word_matched(query, tt) or pinyin_matched(query, tt):
+                        to_add = {
+                                "title": k,
+                                "subtitle": f'✅ {" | ".join(v)}',
+                                "arg": f"{p[1]}||{k}||{' | '.join(v)}",
+                                "mods": {
+                                    "cmd" : {
+                                        "valid": True,
+                                        "arg": f"{p[1]}||{k}||{' | '.join(v)}",
+                                        "subtitle": p[0]
+                                    }
+                                }
+                            }
+                        if to_add not in formatted_lst:
+                            formatted_lst.append(to_add)
+
+if not exact_match_found:
+    formatted_lst.append({
+            "title" : query,
+            "subtitle" : "This will be added as a new entry.",
+            "arg" : f"new||{query}",
+            "icon" : {"path" : "addnewentry.png"}
+        })
+
+formatted_d = {"items" : list(reversed(formatted_lst))}
+
+data = json.dumps(formatted_d)
+
+sys.stdout.write(data)
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Select TT to existing ST, or create a new entry.</string>
+				<key>title</key>
+				<string>Add Entry</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>14ECFF38-40CC-4A6D-AE3B-EFC57FB73277</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>{query}</string>
+				<key>text</key>
+				<string>Enter TT for "{var:st}".</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>134CD31E-ECD9-4B8D-A7C6-1260A1DABA7D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>ctb</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Retrieving termbases...</string>
+				<key>script</key>
+				<string>import sys
+import os
+import json
+
+termbase_dir = os.environ["termbase_dir"]
+termbase_names = [p for p in os.listdir(termbase_dir) if p.endswith(".json")]
+termbase_paths = [os.path.join(termbase_dir, fn) for fn in termbase_names]
+paired = list(zip(termbase_names, termbase_paths))
+
+formatted_lst = []
+for p in paired:
+	formatted_lst.append({
+		"title" : p[0],
+		"subtitle" : p[1],
+		"arg" : p[1]
+	})
+
+formatted_d = {"items" : formatted_lst}
+data = json.dumps(formatted_d)
+
+sys.stdout.write(data)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Which termbase do you want to apply this to?</string>
+				<key>title</key>
+				<string>Choose termbase.</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>3283968A-1941-480A-8461-34702C7CE5C7</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>new\|\|(.+)</string>
+				<key>regexcaseinsensitive</key>
+				<false/>
+				<key>regexmultiline</key>
+				<false/>
+				<key>replacestring</key>
+				<string>$1</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>64DF5366-7030-4EA8-B345-F16ECD819AA9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>st</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>C0D65D2F-5E0C-47F0-BFD4-2ABCFA7F3F1A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>new\|\|(.+)</string>
+						<key>outputlabel</key>
+						<string>New Entry</string>
+						<key>uid</key>
+						<string>E2CF6F12-4A6B-4C0C-99A3-EBB775BEEAD4</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string></string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>8EA9275E-5A0F-440E-9D1E-EAC3FE190299</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.transform</string>
+			<key>uid</key>
+			<string>1AFC19F5-A777-482B-9919-9900C7BF8CC4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>tb_to_add</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>7D876F22-5B5D-4C91-BBC2-D4977353FC66</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Term Add</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>8EB46702-DD6B-427C-B7AF-F70BE831EBB3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import sys
+import os
+import json
+
+st = os.environ["st"]
+tt = os.environ["tt"]
+tb_to_add = os.environ["tb_to_add"]
+
+with open(tb_to_add, "r", encoding="utf-8") as f:
+	tb = json.load(f)
+
+if st in tb and tt in tb[st]:
+	sys.stdout.write(f'"{tt}" already exists as a translation for "{st}".')
+
+else:
+	if st not in tb:
+		tb[st] = []
+	tb[st].append(tt)
+	
+	with open(tb_to_add, "w", encoding="utf-8") as f:
+		json.dump(tb, f, indent=4, ensure_ascii=False)
+
+	sys.stdout.write(f'"{tt}" has been added as a translation for "{st}".')</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BB76B464-6776-4CD3-B80C-83ABF125C629</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.transform</string>
+			<key>uid</key>
+			<string>7D6007E2-F3A7-44D0-844C-802A00D7A325</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>tt</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>354BA3A7-CE59-4613-BD03-2EBF683BB79C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>{var:preexisting_tts} | {query}</string>
+				<key>text</key>
+				<string>Enter another TT for "{var:st}".</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>717E04ED-3761-42E8-98FD-CD1861EECF4E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>preexisting_tts</key>
+					<string>{var:found_entry3}</string>
+					<key>st</key>
+					<string>{var:found_entry2}</string>
+					<key>tb_to_add</key>
+					<string>{var:found_entry1}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>C1F56D1F-7D42-4FFE-BDFA-5E88FFF529D3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>||</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>found_entry</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>7B19D22F-8D44-44AD-896A-D48AC85E79DA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Retrieving results...</string>
+				<key>script</key>
+				<string>import sys
+import json
+import os
+
+st_del = os.environ["st_del"]
+tb_to_del = os.environ["tb_to_del"]
+tb_name = os.path.basename(tb_to_del)
+
+with open(tb_to_del, "r", encoding="utf-8") as f:
+	tb = json.load(f)
+
+formatted_lst = []
+
+results = tb[st_del]
+
+for r in results:
+    formatted_lst.append({
+            "title" : r,
+            "subtitle" : tb_name,
+            "arg" : r
+        })
+
+formatted_d = {"items" : formatted_lst}
+
+data = json.dumps(formatted_d)
+
+sys.stdout.write(data)</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Results retrieved.</string>
+				<key>title</key>
+				<string>Expand term.</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>DD0A0C7B-6417-4D5D-9277-87AC47715ECB</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>fixedorder</key>
+				<true/>
+				<key>items</key>
+				<string>[{"imagefile":"588016c521df0560e1b00db6da794b8d8044c993.png","title":"No","arg":"n"},{"imagefile":"7547755a507d39bc98025924686f17edfa8bfe77.png","title":"Yes","arg":"y"}]</string>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Are you sure you want to delete "{query}"?</string>
+				<key>title</key>
+				<string>Confirmation</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>2D0919EF-0D92-46D3-AD15-7479A819FD67</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import sys
+import os
+import json
+
+st_del = os.environ["st_del"]
+tt_del = os.environ["tt_del"]
+tb_to_del = os.environ["tb_to_del"]
+
+with open(tb_to_del, "r", encoding="utf-8") as f:
+	tb = json.load(f)
+
+tb[st_del].remove(tt_del)
+
+with open(tb_to_del, "w", encoding="utf-8") as f:
+    json.dump(tb, f, indent=4, ensure_ascii=False)
+
+sys.stdout.write(f'"{tt_del}" has been removed from "{st_del}".')</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BE9903C3-5A81-4796-B90E-905C315FF296</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>y</string>
+						<key>outputlabel</key>
+						<string>yes</string>
+						<key>uid</key>
+						<string>B55C584A-979C-42C7-A543-B45DBC8565D8</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>no</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>142396DE-7845-4DB2-BC1C-515E8F4A9489</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>CC188251-4DA4-4D14-BBE6-15D4EB2980A3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>tt_del</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>DEDE1374-1095-4F89-9DA0-C2DD20563F04</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>fixedorder</key>
+				<true/>
+				<key>items</key>
+				<string>[{"imagefile":"d77e17342cf109e97455c82445150576ad2abb42.png","title":"Delete one of the TT's.","arg":"TT"},{"imagefile":"f8b348ab463c5c188603ce54f1f17612731082da.png","title":"Delete the whole entry (ST).","arg":"ST"}]</string>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Do you want to delete the whole entry (ST), or just one of its TT's?</string>
+				<key>title</key>
+				<string>Delete ST/TT?</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>0929020E-592C-4F0C-A756-EA72D14BCD29</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Term Delete</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>F3F0A536-CD79-46B4-A9B4-9D04EE6662D9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>keyword</key>
+				<string>tsd</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Retrieving results...</string>
+				<key>script</key>
+				<string>import sys
+import json
+import os
+from thefuzz import fuzz
+import re
+import pinyin
+
+query = sys.argv[1]
+fuzz_value = int(os.environ["fuzz_value"])
+
+def contains_chinese(s):
+    return re.findall(r'[\u4e00-\u9fff]+', s)
+
+def one_word_matched(query, target):
+    query_words = query.split()
+    if query_words == 1:
+        return any(fuzz.ratio(query, w) &gt; fuzz_value for w in target.split())
+    return any(any(fuzz.ratio(qw, w) &gt; fuzz_value for w in target.split()) for qw in query_words)
+
+def pinyin_matched(query, target):
+    if not contains_chinese(target):
+        return False
+    # explicitly replace some known errors in pinyin transcription
+    with open("replace_d.json", "r", encoding="utf-8") as f:
+        replace_d = json.load(f)
+
+    for k, v in replace_d.items():
+        target = target.replace(k, v)
+
+    target_py = pinyin.get(target, format="strip", delimiter="")
+    return len(query) &gt; 1 and query in target_py
+
+termbase_dir = os.environ["termbase_dir"]
+termbase_names = [p for p in os.listdir(termbase_dir) if p.endswith(".json")]
+termbase_paths = [os.path.join(termbase_dir, fn) for fn in termbase_names]
+paired = list(zip(termbase_names, termbase_paths))
+
+formatted_lst = []
+
+for p in paired:
+    with open(p[1], "r", encoding="utf-8") as f:
+        tb = json.load(f)
+
+    for k, v in tb.items():
+        if contains_chinese(query):
+            if query in k:
+                formatted_lst.append({
+                        "title": k,
+                        "subtitle" : " | ".join(v),
+                        "arg" : f"{p[1]}||{k}",
+                        "mods": {
+                            "cmd": {
+                                "valid": True,
+                                "arg": f"{p[1]}||{k}",
+                                "subtitle": p[0]
+                            }
+                        }
+                    })
+            elif any(query in tt for tt in v):
+                for tt in v:
+                    if query in tt:
+                        formatted_lst.append({
+                                "title": k,
+                                "subtitle": f'✅ {" | ".join(v)}',
+                                "arg": f"{p[1]}||{k}",
+                                "mods": {
+                                    "cmd": {
+                                        "valid": True,
+                                        "arg": f"{p[1]}||{k}",
+                                        "subtitle": p[0]
+                                    }
+                                }
+                            })
+        else:
+            if one_word_matched(query, k) or pinyin_matched(query, k):
+                formatted_lst.append({
+                        "title": k,
+                        "subtitle" : " | ".join(v),
+                        "arg" : f"{p[1]}||{k}",
+                        "mods": {
+                            "cmd": {
+                                "valid": True,
+                                "arg": f"{p[1]}||{k}",
+                                "subtitle": p[0]
+                            }
+                        }
+                    })
+            elif any(one_word_matched(query, tt) or pinyin_matched(query, tt) for tt in v):
+                for tt in v:
+                    if one_word_matched(query, tt) or pinyin_matched(query, tt):
+                        to_add = {
+                                "title": k,
+                                "subtitle": f'✅ {" | ".join(v)}',
+                                "arg": f"{p[1]}||{k}",
+                                "mods": {
+                                    "cmd": {
+                                        "valid": True,
+                                        "arg": f"{p[1]}||{k}",
+                                        "subtitle": p[0]
+                                    }
+                                }
+                            }
+                        if to_add not in formatted_lst:
+                            formatted_lst.append(to_add)
+
+formatted_d = {"items" : list(reversed(formatted_lst))}
+
+data = json.dumps(formatted_d)
+
+sys.stdout.write(data)
+
+</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Delete a single TT from an existing entry, or delete an entire ST entry.</string>
+				<key>title</key>
+				<string>Delete Entry</string>
+				<key>type</key>
+				<integer>9</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>BB2543E4-A8F2-497B-A4A0-51ACEDB1A25F</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>TT</string>
+						<key>outputlabel</key>
+						<string>TT</string>
+						<key>uid</key>
+						<string>B55C584A-979C-42C7-A543-B45DBC8565D8</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>ST</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>5188FD67-B957-4AC8-9552-086B9CBD5269</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>st_del</key>
+					<string>{var:split2}</string>
+					<key>tb_to_del</key>
+					<string>{var:split1}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>BB8775E3-3086-4CCB-823E-FF86F3B65012</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>delimiter</key>
+				<string>||</string>
+				<key>discardemptyarguments</key>
+				<false/>
+				<key>outputas</key>
+				<integer>0</integer>
+				<key>trimarguments</key>
+				<true/>
+				<key>variableprefix</key>
+				<string>split</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.split</string>
+			<key>uid</key>
+			<string>ACF5F331-C068-49EC-9A34-FD256C0FA3D2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>fixedorder</key>
+				<true/>
+				<key>items</key>
+				<string>[{"imagefile":"588016c521df0560e1b00db6da794b8d8044c993.png","title":"No","arg":"n"},{"imagefile":"7547755a507d39bc98025924686f17edfa8bfe77.png","title":"Yes","arg":"y"}]</string>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Are you sure you want to delete "{query}"?</string>
+				<key>title</key>
+				<string>Confirmation</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.listfilter</string>
+			<key>uid</key>
+			<string>E29CA61E-1A87-42E6-8C9E-D01B2DEF41FF</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>import sys
+import os
+import json
+
+st_del = os.environ["st_del"]
+tb_to_del = os.environ["tb_to_del"]
+
+with open(tb_to_del, "r", encoding="utf-8") as f:
+	tb = json.load(f)
+
+del tb[st_del]
+
+with open(tb_to_del, "w", encoding="utf-8") as f:
+    json.dump(tb, f, indent=4, ensure_ascii=False)
+
+sys.stdout.write(f'"{st_del}" has been deleted.')</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>9</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>6ECC6AD6-EAA1-480A-951C-99D102DC005F</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>y</string>
+						<key>outputlabel</key>
+						<string>yes</string>
+						<key>uid</key>
+						<string>B55C584A-979C-42C7-A543-B45DBC8565D8</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>no</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>AC61B039-2CCA-44A6-916C-793D3D29C0C6</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>37586824-A698-4BFD-B230-E53B7607EA67</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>python3 load_csv.py</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>33F8748B-C8F5-4B54-8ADE-10BA59431A1B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>No spaces or illegal characters. Use _ or - to replace spacings. Exclude extension.</string>
+				<key>text</key>
+				<string>Name your termbase.</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>B65EDED5-502D-4701-A320-30E3BB7AA764</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>anchorfields</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>daterange</key>
+				<integer>0</integer>
+				<key>fields</key>
+				<array>
+					<dict>
+						<key>field</key>
+						<string>kMDItemDisplayName</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemAlternateNames</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemFinderComment</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+				</array>
+				<key>includesystem</key>
+				<false/>
+				<key>keyword</key>
+				<string>loadcsv</string>
+				<key>limit</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>scopes</key>
+				<array/>
+				<key>sortmode</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Converts CSV to JSON and save under termbase directory.</string>
+				<key>title</key>
+				<string>Load CSV file</string>
+				<key>types</key>
+				<array>
+					<string>public.comma-separated-values-text</string>
+				</array>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.filefilter</string>
+			<key>uid</key>
+			<string>FB62F5D0-69AC-479B-BA70-332B46755436</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Load CSV</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>4EC62D23-7868-4B40-9D1B-D99A4F37ABC9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>csv_path</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>DF8CCAFF-D26C-4D11-A6B5-AA8FB211ECB7</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string></string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict>
+					<key>save_file_name</key>
+					<string>{query}</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>E2C68819-16A2-40D5-97B5-6376AE507F19</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>openwith</key>
+				<string>/System/Applications/TextEdit.app</string>
+				<key>sourcefile</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openfile</string>
+			<key>uid</key>
+			<string>C03654CC-B05B-48F4-B6F6-99582E389302</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>python3 excel_to_csv.py "$@"</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>C300D1D4-6F46-4E6A-9EA5-D8488CFF95C1</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>anchorfields</key>
+				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>daterange</key>
+				<integer>0</integer>
+				<key>fields</key>
+				<array>
+					<dict>
+						<key>field</key>
+						<string>kMDItemDisplayName</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemAlternateNames</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+					<dict>
+						<key>field</key>
+						<string>kMDItemFinderComment</string>
+						<key>not</key>
+						<false/>
+						<key>split</key>
+						<true/>
+						<key>value</key>
+						<string>{query}</string>
+						<key>words</key>
+						<true/>
+					</dict>
+				</array>
+				<key>includesystem</key>
+				<false/>
+				<key>keyword</key>
+				<string>xtc</string>
+				<key>limit</key>
+				<integer>0</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>scopes</key>
+				<array/>
+				<key>sortmode</key>
+				<integer>0</integer>
+				<key>subtext</key>
+				<string>Converts a .xlsx file into .csv format.</string>
+				<key>title</key>
+				<string>Convert Excel file to CSV</string>
+				<key>types</key>
+				<array>
+					<string>org.openxmlformats.spreadsheetml.sheet</string>
+				</array>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.filefilter</string>
+			<key>uid</key>
+			<string>846E9DC0-82DD-431C-9FE6-A29289EB6102</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Convert success.</string>
+				<key>title</key>
+				<string>Excel to CSV</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>524C3580-F674-44D7-8E8C-14E914009BB1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>![img](icon.png)
+
+# TermSearch
+An Alfred workflow that allows you to easily manage and look up translations from termbases. Supports both English and Chinese searching, and fuzzy matching is enabled for English matching. Supports "Reverse Search" where you can look up a target text and the corresponding source text will be returned. Also supports pinyin matching for Chinese searches.
+
+![img](preview.png)
+
+## Dependencies
+
+- Python
+- Install [thefuzz](https://github.com/seatgeek/thefuzz) using `pip install thefuzz` (Ensure that you install it with the specific Python that Alfred uses. Open any of the Script Filter objects to check the Python path). This is required for fuzzy matching.
+
+## Core Features
+- **Term Search**: Looks up a term from all .json files in your temrbase directory. English is matched fuzzily using the fuzziness value specified in the configuration. Chinese is matched more naively to simply see if at least one character matches. Pinyin is also supported for Chinese searches (same naive matching).
+
+- **Add Entry**: Add TT to an existing ST entry, or add an entirely new ST entry to a specified termbase.
+
+- **Delete Entry**: Delete a TT from an existing ST entry, or delete an entire ST entry.
+
+- **Load CSV File**: Converts a CSV file into JSON format, which will be saved under the specified termbase directory.
+
+- **Convert Excel file to CSV**: Converts a given XLSX file into CSV format. The subsequent script will help to eliminate empty cells, but it is recommended that the user check it manually (resulting file will pop up).
+
+## Known Issues
+- Results aren't arranged by exactness of match. Can be problematic for very short queries. This can't be resolved entirely as Alfred learns result order by usage.
+- Pinyin conversion is inaccurate for certain words. This is a tokenization problem that cannot be completely resolved. You may explicitly specify known incorrect transcriptions in the `replace_d.json` in the workflow directory.</string>
+	<key>uidata</key>
+	<dict>
+		<key>016AB26B-D397-4CD1-8234-15ED8D3E914E</key>
+		<dict>
+			<key>xpos</key>
+			<real>900</real>
+			<key>ypos</key>
+			<real>95</real>
+		</dict>
+		<key>0929020E-592C-4F0C-A756-EA72D14BCD29</key>
+		<dict>
+			<key>note</key>
+			<string>Asks user to choose whether to delete just a single TT or the entire ST entry.</string>
+			<key>xpos</key>
+			<real>575</real>
+			<key>ypos</key>
+			<real>1230</real>
+		</dict>
+		<key>0DFBBDC2-8560-43C6-ACC6-44F4928A151D</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>345</real>
+		</dict>
+		<key>134CD31E-ECD9-4B8D-A7C6-1260A1DABA7D</key>
+		<dict>
+			<key>note</key>
+			<string>Prompts user for TT.</string>
+			<key>xpos</key>
+			<real>1120</real>
+			<key>ypos</key>
+			<real>860</real>
+		</dict>
+		<key>142396DE-7845-4DB2-BC1C-515E8F4A9489</key>
+		<dict>
+			<key>xpos</key>
+			<real>1625</real>
+			<key>ypos</key>
+			<real>1195</real>
+		</dict>
+		<key>14ECFF38-40CC-4A6D-AE3B-EFC57FB73277</key>
+		<dict>
+			<key>note</key>
+			<string>Add TT to an existing ST entry, or add an entirely new ST entry to a specified termbase.</string>
+			<key>xpos</key>
+			<real>265</real>
+			<key>ypos</key>
+			<real>860</real>
+		</dict>
+		<key>1AFC19F5-A777-482B-9919-9900C7BF8CC4</key>
+		<dict>
+			<key>xpos</key>
+			<real>425</real>
+			<key>ypos</key>
+			<real>890</real>
+		</dict>
+		<key>24B0AAB8-E3F9-4E94-A8D8-FA27AE7A70C5</key>
+		<dict>
+			<key>note</key>
+			<string>Allows user to select among different TTs.</string>
+			<key>xpos</key>
+			<real>1360</real>
+			<key>ypos</key>
+			<real>80</real>
+		</dict>
+		<key>27D70842-CD00-432F-A340-3FDADED14FFD</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>720</real>
+		</dict>
+		<key>2D0919EF-0D92-46D3-AD15-7479A819FD67</key>
+		<dict>
+			<key>xpos</key>
+			<real>1455</real>
+			<key>ypos</key>
+			<real>1175</real>
+		</dict>
+		<key>3283968A-1941-480A-8461-34702C7CE5C7</key>
+		<dict>
+			<key>note</key>
+			<string>Choose termbase to add term to.</string>
+			<key>xpos</key>
+			<real>800</real>
+			<key>ypos</key>
+			<real>860</real>
+		</dict>
+		<key>33F8748B-C8F5-4B54-8ADE-10BA59431A1B</key>
+		<dict>
+			<key>xpos</key>
+			<real>905</real>
+			<key>ypos</key>
+			<real>1520</real>
+		</dict>
+		<key>354BA3A7-CE59-4613-BD03-2EBF683BB79C</key>
+		<dict>
+			<key>xpos</key>
+			<real>1390</real>
+			<key>ypos</key>
+			<real>980</real>
+		</dict>
+		<key>37586824-A698-4BFD-B230-E53B7607EA67</key>
+		<dict>
+			<key>note</key>
+			<string>Empty object to ensure no arg is passed on.</string>
+			<key>xpos</key>
+			<real>940</real>
+			<key>ypos</key>
+			<real>1385</real>
+		</dict>
+		<key>4EC62D23-7868-4B40-9D1B-D99A4F37ABC9</key>
+		<dict>
+			<key>xpos</key>
+			<real>1120</real>
+			<key>ypos</key>
+			<real>1520</real>
+		</dict>
+		<key>5188FD67-B957-4AC8-9552-086B9CBD5269</key>
+		<dict>
+			<key>xpos</key>
+			<real>785</real>
+			<key>ypos</key>
+			<real>1250</real>
+		</dict>
+		<key>524C3580-F674-44D7-8E8C-14E914009BB1</key>
+		<dict>
+			<key>xpos</key>
+			<real>1120</real>
+			<key>ypos</key>
+			<real>1970</real>
+		</dict>
+		<key>639D73B7-294A-4A28-AF56-E688C3AC543D</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>595</real>
+		</dict>
+		<key>64DF5366-7030-4EA8-B345-F16ECD819AA9</key>
+		<dict>
+			<key>xpos</key>
+			<real>650</real>
+			<key>ypos</key>
+			<real>875</real>
+		</dict>
+		<key>6ECC6AD6-EAA1-480A-951C-99D102DC005F</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>1355</real>
+		</dict>
+		<key>717E04ED-3761-42E8-98FD-CD1861EECF4E</key>
+		<dict>
+			<key>note</key>
+			<string>Prompts user for TT.</string>
+			<key>xpos</key>
+			<real>1120</real>
+			<key>ypos</key>
+			<real>1005</real>
+		</dict>
+		<key>7A5D5B44-48D9-4F67-A1C1-FE7E7B7CF882</key>
+		<dict>
+			<key>xpos</key>
+			<real>990</real>
+			<key>ypos</key>
+			<real>335</real>
+		</dict>
+		<key>7B19D22F-8D44-44AD-896A-D48AC85E79DA</key>
+		<dict>
+			<key>xpos</key>
+			<real>815</real>
+			<key>ypos</key>
+			<real>1035</real>
+		</dict>
+		<key>7D6007E2-F3A7-44D0-844C-802A00D7A325</key>
+		<dict>
+			<key>xpos</key>
+			<real>1295</real>
+			<key>ypos</key>
+			<real>980</real>
+		</dict>
+		<key>7D876F22-5B5D-4C91-BBC2-D4977353FC66</key>
+		<dict>
+			<key>xpos</key>
+			<real>1010</real>
+			<key>ypos</key>
+			<real>890</real>
+		</dict>
+		<key>8259AAF2-BF5C-4B7E-8B4C-310A0BD201C6</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>80</real>
+		</dict>
+		<key>846E9DC0-82DD-431C-9FE6-A29289EB6102</key>
+		<dict>
+			<key>note</key>
+			<string>Converts a given XLSX file into CSV format. The subsequent script will help to eliminate empty cells, but it is recommended that the user check it manually (resulting file will pop up).</string>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>1780</real>
+		</dict>
+		<key>8D49F49C-0D4C-4BFC-A8D6-87839C79BFFA</key>
+		<dict>
+			<key>xpos</key>
+			<real>905</real>
+			<key>ypos</key>
+			<real>345</real>
+		</dict>
+		<key>8EA9275E-5A0F-440E-9D1E-EAC3FE190299</key>
+		<dict>
+			<key>xpos</key>
+			<real>535</real>
+			<key>ypos</key>
+			<real>880</real>
+		</dict>
+		<key>8EB46702-DD6B-427C-B7AF-F70BE831EBB3</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>950</real>
+		</dict>
+		<key>959A10BE-D139-439B-B37C-7AC4D8C66B37</key>
+		<dict>
+			<key>xpos</key>
+			<real>825</real>
+			<key>ypos</key>
+			<real>345</real>
+		</dict>
+		<key>AC61B039-2CCA-44A6-916C-793D3D29C0C6</key>
+		<dict>
+			<key>xpos</key>
+			<real>1340</real>
+			<key>ypos</key>
+			<real>1375</real>
+		</dict>
+		<key>ACF5F331-C068-49EC-9A34-FD256C0FA3D2</key>
+		<dict>
+			<key>xpos</key>
+			<real>430</real>
+			<key>ypos</key>
+			<real>1260</real>
+		</dict>
+		<key>B3E4BBA4-E9C3-4887-9D19-1D78A40ED516</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>225</real>
+		</dict>
+		<key>B65EDED5-502D-4701-A320-30E3BB7AA764</key>
+		<dict>
+			<key>note</key>
+			<string>Asks user to specify a termbase name. No spacing or illegal characters in the file name, in order to prevent unexpected parsing errors.</string>
+			<key>xpos</key>
+			<real>570</real>
+			<key>ypos</key>
+			<real>1520</real>
+		</dict>
+		<key>B8E92031-1DC9-4739-BFD1-A431330DBDD8</key>
+		<dict>
+			<key>note</key>
+			<string>Looks up a term from all .json files in your temrbase directory. English is matched fuzzily using the fuzziness value specified in the configuration. Chinese is matched more naively to simply see if at least one character matches. Pinyin is also supported for Chinese searches (same naive matching).</string>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>80</real>
+		</dict>
+		<key>BB2543E4-A8F2-497B-A4A0-51ACEDB1A25F</key>
+		<dict>
+			<key>note</key>
+			<string>Delete a TT from an existing ST entry, or delete an entire ST entry.</string>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>1230</real>
+		</dict>
+		<key>BB76B464-6776-4CD3-B80C-83ABF125C629</key>
+		<dict>
+			<key>xpos</key>
+			<real>1500</real>
+			<key>ypos</key>
+			<real>950</real>
+		</dict>
+		<key>BB8775E3-3086-4CCB-823E-FF86F3B65012</key>
+		<dict>
+			<key>xpos</key>
+			<real>495</real>
+			<key>ypos</key>
+			<real>1260</real>
+		</dict>
+		<key>BE9903C3-5A81-4796-B90E-905C315FF296</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>1180</real>
+		</dict>
+		<key>C03654CC-B05B-48F4-B6F6-99582E389302</key>
+		<dict>
+			<key>note</key>
+			<string>Note that the resulting CSV file should not have a header. It should just be rows of ST followed by any number of TTs, delimited by commas. Anything else is unnecessary and will be unnecessarily stored into the JSON file.</string>
+			<key>xpos</key>
+			<real>1120</real>
+			<key>ypos</key>
+			<real>1680</real>
+		</dict>
+		<key>C0D65D2F-5E0C-47F0-BFD4-2ABCFA7F3F1A</key>
+		<dict>
+			<key>xpos</key>
+			<real>710</real>
+			<key>ypos</key>
+			<real>875</real>
+		</dict>
+		<key>C1F56D1F-7D42-4FFE-BDFA-5E88FFF529D3</key>
+		<dict>
+			<key>xpos</key>
+			<real>1010</real>
+			<key>ypos</key>
+			<real>1035</real>
+		</dict>
+		<key>C300D1D4-6F46-4E6A-9EA5-D8488CFF95C1</key>
+		<dict>
+			<key>xpos</key>
+			<real>570</real>
+			<key>ypos</key>
+			<real>1780</real>
+		</dict>
+		<key>C6C99318-2C51-4DDE-9B6B-0BD6D003FCB0</key>
+		<dict>
+			<key>xpos</key>
+			<real>1705</real>
+			<key>ypos</key>
+			<real>470</real>
+		</dict>
+		<key>CC188251-4DA4-4D14-BBE6-15D4EB2980A3</key>
+		<dict>
+			<key>note</key>
+			<string>Empty object to ensure no arg is passed on.</string>
+			<key>xpos</key>
+			<real>940</real>
+			<key>ypos</key>
+			<real>1205</real>
+		</dict>
+		<key>DD0A0C7B-6417-4D5D-9277-87AC47715ECB</key>
+		<dict>
+			<key>note</key>
+			<string>Choose the single TT to remove.</string>
+			<key>xpos</key>
+			<real>1120</real>
+			<key>ypos</key>
+			<real>1175</real>
+		</dict>
+		<key>DEDE1374-1095-4F89-9DA0-C2DD20563F04</key>
+		<dict>
+			<key>xpos</key>
+			<real>1340</real>
+			<key>ypos</key>
+			<real>1205</real>
+		</dict>
+		<key>DF8CCAFF-D26C-4D11-A6B5-AA8FB211ECB7</key>
+		<dict>
+			<key>xpos</key>
+			<real>465</real>
+			<key>ypos</key>
+			<real>1550</real>
+		</dict>
+		<key>E29CA61E-1A87-42E6-8C9E-D01B2DEF41FF</key>
+		<dict>
+			<key>xpos</key>
+			<real>1120</real>
+			<key>ypos</key>
+			<real>1355</real>
+		</dict>
+		<key>E2C68819-16A2-40D5-97B5-6376AE507F19</key>
+		<dict>
+			<key>xpos</key>
+			<real>785</real>
+			<key>ypos</key>
+			<real>1550</real>
+		</dict>
+		<key>F3F0A536-CD79-46B4-A9B4-9D04EE6662D9</key>
+		<dict>
+			<key>xpos</key>
+			<real>1910</real>
+			<key>ypos</key>
+			<real>1230</real>
+		</dict>
+		<key>F9DDF6BB-CD52-48AA-BCFC-76A6C630C8F5</key>
+		<dict>
+			<key>note</key>
+			<string>Allows for "reverse lookup", where an ST can be returned for TT searches.</string>
+			<key>xpos</key>
+			<real>531</real>
+			<key>ypos</key>
+			<real>100</real>
+		</dict>
+		<key>FB62F5D0-69AC-479B-BA70-332B46755436</key>
+		<dict>
+			<key>note</key>
+			<string>Converts a CSV file into JSON format, which will be saved under the specified termbase directory.</string>
+			<key>xpos</key>
+			<real>270</real>
+			<key>ypos</key>
+			<real>1520</real>
+		</dict>
+		<key>FD4B0A31-2777-4D22-B49F-8E077F63499B</key>
+		<dict>
+			<key>xpos</key>
+			<real>820</real>
+			<key>ypos</key>
+			<real>95</real>
+		</dict>
+	</dict>
+	<key>userconfigurationconfig</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string></string>
+				<key>filtermode</key>
+				<integer>1</integer>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string>Specify a folder location for your termbase json files.</string>
+			<key>label</key>
+			<string>Termbase Folder Directory</string>
+			<key>type</key>
+			<string>filepicker</string>
+			<key>variable</key>
+			<string>termbase_dir</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<string>80</string>
+				<key>placeholder</key>
+				<string></string>
+				<key>required</key>
+				<false/>
+				<key>trim</key>
+				<true/>
+			</dict>
+			<key>description</key>
+			<string>A value between 0-100 that dictates the degree of fuzziness allowed (only applied to English/alphabetic languages).</string>
+			<key>label</key>
+			<string>Fuzziness Value</string>
+			<key>type</key>
+			<string>textfield</string>
+			<key>variable</key>
+			<string>fuzz_value</string>
+		</dict>
+	</array>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string></string>
+</dict>
+</plist>
