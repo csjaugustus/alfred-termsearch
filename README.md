@@ -22,5 +22,5 @@ An Alfred workflow that allows you to easily manage and look up translations fro
 - **Convert Excel file to CSV**: Converts a given XLSX file into CSV format. The subsequent script will help to eliminate empty cells, but it is recommended that the user check it manually (resulting file will pop up).
 
 ## Known Issues
-- Results aren't arranged by exactness of match. Can be problematic for very short queries. This can't be resolved entirely as Alfred learns result order by usage.
+- The exact priority for returning matches is not fully decided yet. In some cases it is hard to decide which is a better match (as sometimes we match pinyin, sometimes we don't, etc. and there is no simple way to come up with a scoring system that works across different search methods). However, a scoring system has been implemented and results should generally be sorted as expected, except in rare cases.
 - Pinyin conversion is inaccurate for certain words. This is a tokenization problem that cannot be completely resolved. You may explicitly specify known incorrect transcriptions in the `replace_d.json` in the workflow directory.
