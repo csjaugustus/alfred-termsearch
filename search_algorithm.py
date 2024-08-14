@@ -3,6 +3,9 @@ import re
 import pinyin
 from thefuzz import fuzz
 import string
+import os
+
+fuzz_value = int(os.environ["fuzz_value"])
 
 def preprocess_text(text):
     # Remove punctuation and convert to lower case
@@ -26,7 +29,7 @@ def pinyin_matched(query, target):
         return len(query) / len(target_py) * 100
     return 0
 
-def fuzzy_search(query, target, threshold=70):
+def fuzzy_search(query, target, threshold=fuzz_value):
     """
     Perform a fuzzy search on a single target string to find the highest matching score
     between any word in the query and the target string, with higher scores for multiple word matches.
