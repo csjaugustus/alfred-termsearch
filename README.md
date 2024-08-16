@@ -4,8 +4,9 @@
   <img src="icon.png" alt="Bookmarker Logo" width="100" height="100" style="box-shadow: 10px 10px 20px 5px rgba(0,0,0,0.8);">
 </p>
 
+If you are a translator yourself, you probably know how much of a hassle it is when you cannot easily access your termbases. Especially if you are working on MacOS, there is currently no good alternative to Trados (which is often too laggy and therefore annoying to work with). With all the AI chatbots now, *glossary management* is now the only missing piece of a puzzle. You don't need bulky software!
 
-An Alfred workflow that allows you to easily manage and look up translations from termbases. Supports both English and Chinese searching, and fuzzy matching is enabled for English matching. Supports "Reverse Search" where you can look up a target text and the corresponding source text will be returned. Also supports pinyin matching for Chinese searches.
+**TermSearch** is an extremely lightweight Alfred workflow that allows you to easily manage and look up translations from termbases. Supports both English and Chinese searching, and fuzzy matching is enabled for English matching. Supports "Reverse Search" where you can look up a target text and the corresponding source text will be returned. Also supports pinyin matching for Chinese searches.
 
 ![img](preview.gif)
 
@@ -18,7 +19,7 @@ An Alfred workflow that allows you to easily manage and look up translations fro
 Ensure that you install it with the specific Python that Alfred uses. Read [How to Install Python Dependencies](#how-to-install-python-dependencies) for more detailed info on how that can be done.
 
 ## Core Features
-- **Term Search** (`ts`) : Looks up a term from all .json files in your temrbase directory. English is matched fuzzily using the fuzziness value specified in the configuration. Chinese is matched more naively to simply see if at least one character matches. Pinyin is also supported for Chinese searches (same naive matching).
+- **Term Search** (`ts`) : Looks up a term from all .json files in your termbase directory. English is matched fuzzily using the fuzziness value specified in the configuration. Chinese is matched more naively to simply see if at least one character matches. Pinyin is also supported for Chinese searches (same naive matching).
 
 - **Add Entry** (`tsa`): Add TT to an existing ST entry, or add an entirely new ST entry to a specified termbase.
 
