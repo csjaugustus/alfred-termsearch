@@ -7,7 +7,7 @@
 
 An Alfred workflow that allows you to easily manage and look up translations from termbases. Supports both English and Chinese searching, and fuzzy matching is enabled for English matching. Supports "Reverse Search" where you can look up a target text and the corresponding source text will be returned. Also supports pinyin matching for Chinese searches.
 
-![img](preview.png)
+![img](preview.gif)
 
 ## Dependencies
 
