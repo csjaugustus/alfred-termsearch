@@ -1,7 +1,7 @@
 # TermSearch
 
 <p align="center">
-  <img src="icon.png" alt="Bookmarker Logo" width="100" height="100" style="box-shadow: 10px 10px 5px grey">
+  <img src="icon.png" alt="Bookmarker Logo" width="100" height="100" style="box-shadow: 10px 10px 20px 5px rgba(0,0,0,0.8);">
 </p>
 
 
