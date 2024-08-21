@@ -10,58 +10,55 @@ If you are a translator yourself, you probably know how much of a hassle it is w
 
 ![img](preview.gif)
 
-## Dependencies
+# Table of Contents
 
-- Python
-- Install [thefuzz](https://github.com/seatgeek/thefuzz) via pip. This is required for fuzzy matching.
-- Install `pinyin` via pip. This is requiring for pinyin matching.
+- [Features](#features)
+- [Installation](#Setup)
+- [Usage](#usage)
+- [Known Issues](#known-issues)
 
-Ensure that you install it with the specific Python that Alfred uses. Read [How to Install Python Dependencies](#how-to-install-python-dependencies) for more detailed info on how that can be done.
+# Features
+- **Two-Way Searching**: You can search either the source text or the target text.
+- **Fuzzy Matching**: Searching is made easy with fuzzy matching, which allows for partial matches and occasional typos.
+- **Pinyin Support**: You will be able to search for Chinese words using their *pinyin*. Note however that *pinyin* searches do not support fuzzy matching.
+- **Easy Access**: The search/add/delete functions can be triggered anywhere via Alfred, so you don't need to open any additional software.
+- **Loading/Offloading Termbases**: Since each termbase is a separate file, you can choose to offload termbases that are currently not used, to declutter your search results.
+- **Conversion (`.xlsx` → `.csv` → `.json`)**: While the termbase will ultimately be stored as `.json`, you will be able to load `.xlsx` or `.csv` files. But they have to be in the right format. More info in the workflow comments.
 
-## Core Features
-- **Term Search** (`ts`) : Looks up a term from all .json files in your termbase directory. English is matched fuzzily using the fuzziness value specified in the configuration. Chinese is matched more naively to simply see if at least one character matches. Pinyin is also supported for Chinese searches (same naive matching).
+# Setup
 
-- **Add Entry** (`tsa`): Add TT to an existing ST entry, or add an entirely new ST entry to a specified termbase.
+## Installation
+1. Download Alfred [here](https://www.alfredapp.com). Requires PowerPack.
+2. Download Python [here](https://www.python.org/downloads/).
+3. Get the latest version of the workflow via [Releases](https://github.com/csjaugustus/alfred-termsearch/releases).
 
-- **Delete Entry** (`tsd`): Delete a TT from an existing ST entry, or delete an entire ST entry.
-
-- **Load CSV File** (`loadcsv`): Converts a CSV file into JSON format, which will be saved under the specified termbase directory.
-
-- **Convert Excel file to CSV** (`xtc`): Converts a given XLSX file into CSV format. The subsequent script will help to eliminate empty cells, but it is recommended that the user check it manually (resulting file will pop up).
-
-## How to Install Python Dependencies
-
-**ℹ️ Update: You can now automaticaly install all dependencies using the correct Python by typing the following command via Alfred:**
+## Configuration
+1. Once you install the workflow, you will need to run a setup to install the required dependencies (`thefuzz` and `pinyin`). You simply need to type this command in Alfred:
 
 ```
 `termsearch_setup
 ```
 
----
+2. In the workflow configuration, set a directory to determine where your termbase files will be placed. Then you will need to create an empty `.json` file (with an empty `{}` in it) in order for you to be able to add new entries.
 
-Here's how you would do it manually:
+# Usage
+- **Term Search** (`ts`) : Looks up a term.
 
-To ensure that dependencies are installed for the same Python that is used for the scripts in this workflow, you can open the workflow's directory and open any of the `.py` files. Then input this line at the very beginning:
+- **Add Entry** (`tsa`): Add TT to an existing ST entry, or add an entirely new ST entry.
 
-```python
-import sys
+- **Delete Entry** (`tsd`): Delete a TT from an existing ST entry, or delete an entire ST entry.
 
-print(sys.executable)
-```
+- **Load/Offload Termbase** (`tsl`): Load or offload a termbase. Entries within offloaded  will be excluded from the search scope.
 
-Then turn on the debugger console in your Alfred workflow window. It should print the path of the Python executable.
+- **Load CSV File** (`loadcsv`): Converts a `.csv` file into `.json` format, which will be saved under the specified termbase directory.
 
-For example if the path you get is `/opt/homebrew/opt/python@3.12/bin/python3.12`, you will need to install your packages like so:
+- **Convert Excel file to CSV** (`xtc`): Converts a given `.xlsx` file into `.csv` format. The subsequent script will help to eliminate empty cells, but it is recommended that the user check it manually (resulting file will pop up).
 
-```python
- /opt/homebrew/opt/python@3.12/bin/python3.12 -m pip install package_name --break-system-packages
-```
 
-(`--break-system-packages` is only required if the path is a homebrew one. Not including this will throw an error message.)
 
-It is recommended to bind this to a snippet or snippet trigger for easier installation in the future.
 
-## Known Issues
+
+# Known Issues
 - The exact priority for returning matches is not fully decided yet. In some cases it is hard to decide which is a better match (as sometimes we match pinyin, sometimes we don't, etc. and there is no simple way to come up with a scoring system that works across different search methods). However, a scoring system has been implemented and results should generally be sorted as expected, except in rare cases.
 - Pinyin conversion is inaccurate for certain words. This is a tokenization problem that cannot be completely resolved. You may explicitly specify known incorrect transcriptions in the `replace_d.json` in the workflow directory.
 - `loadcsv` and `xtc` are not thoroughly tested. Likely to behave unexpectedly.
