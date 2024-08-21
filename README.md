@@ -13,7 +13,7 @@ If you are a translator yourself, you probably know how much of a hassle it is w
 # Table of Contents
 
 - [Features](#features)
-- [Installation](#Setup)
+- [Setup](#Setup)
 - [Usage](#usage)
 - [Known Issues](#known-issues)
 
